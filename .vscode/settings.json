@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./3_1_DefineStack",
+        "./3_5_DefineQueue",
+        "./3_8_HowToMakeAList"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
